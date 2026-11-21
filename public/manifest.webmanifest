@@ -1,0 +1,17 @@
+{
+  "id": "./",
+  "name": "فكّر وقارن — لعبة تعليمية للأطفال",
+  "short_name": "فكّر وقارن",
+  "description": "لعبة عربية مرحة لتنمية مهارات المقارنة لدى الأطفال.",
+  "lang": "ar",
+  "dir": "rtl",
+  "display": "standalone",
+  "start_url": "./",
+  "scope": "./",
+  "theme_color": "#7458a5",
+  "background_color": "#fffdf8",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "recordingStatus": "recordings-not-included",
+  "recordingFormat": "MP3",
+  "instructions": "instructions.mp3",
+  "encouragement": "encouragement.mp3",
+  "questions": [
+    { "file": "question-01.mp3", "text": "إيه اللي شبه بعض في الصورتين؟" },
+    { "file": "question-02.mp3", "text": "إيه اللي شبه بعض في الصورتين؟" },
+    { "file": "question-03.mp3", "text": "إيه اللي شبه بعض في الصورتين؟" },
+    { "file": "question-04.mp3", "text": "إيه اللي شبه بعض في الصورتين؟" },
+    { "file": "question-05.mp3", "text": "إيه اللي شبه بعض في الصورتين؟" },
+    { "file": "question-06.mp3", "text": "إيه اللي مختلف بين الصورتين؟" },
+    { "file": "question-07.mp3", "text": "إيه اللي مختلف بين الصورتين؟" },
+    { "file": "question-08.mp3", "text": "إيه اللي مختلف بين الصورتين؟" },
+    { "file": "question-09.mp3", "text": "إيه اللي مختلف بين الصورتين؟" },
+    { "file": "question-10.mp3", "text": "إيه اللي مختلف بين الصورتين؟" },
+    { "file": "question-11.mp3", "text": "أنهي قلم أطول؟" },
+    { "file": "question-12.mp3", "text": "أنهي طبق فيه أكتر؟" },
+    { "file": "question-13.mp3", "text": "أنهي شريط أعرض؟" },
+    { "file": "question-14.mp3", "text": "أنهي شنطة أصغر؟" },
+    { "file": "question-15.mp3", "text": "أنهي تفاحة أكبر؟" }
+  ],
+  "spokenInstructions": "تعالى نبص على الصورتين! اختار إجابتك براحتك. ولو محتاج جرّب تاني.",
+  "spokenEncouragement": "أحسنت! اختيار جميل!"
+}
